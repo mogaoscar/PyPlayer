@@ -32,17 +32,17 @@ PyPlayer will ask for youtube video details the same way as in '1. Download Yout
 
 As of this PyPlayer version, Stream Youtube audio will play a sound on top of what was already playing, but the audio stream has to be finished before going back to the menu again.
 
-### 4. Change Channel volume
+### 4. Change Channel volume
 
 PyPlayer will list all active audio channels and the name of the file they're playing. Upon choosing a channel by typing the channel number, a prompt to configure the volume percentage of the channel will appear. Only the volume of the selected channel will be changed, the rest will remain the same.
 
-### 5. Stop Channel
+### 5. Stop Channel
 PyPlayer will list all active audio channels and the name the file they're playing. Upon choosing a channel by typing the channel number, the selected channel will stop playing its audio and its volume will be reset to 50%
 
-### 6. Stop All
+### 6. Stop All
 PyPlayer will stop all audio channels and reset their volume to 50%.
 
-### 7. Exit
+### 7. Exit
 Exits the program
 
 ## Supported Formats
@@ -52,8 +52,7 @@ mp3 and wav are the only two codecs supported.
 
 - mp3 is considerably ligther than wav and compressed. The program has to process these files before playing them, and encode them when downloading them, meaning that it will take some time when downloading a file in mp3 format or loading it into a Channel for playback. Please be patient if you choose to do so. It is recommended that this format is used only for files that will be downloaded and then copied somewhere else for storage, that is, file that won't be normally played with PyPlayer.
 
----
-## Contact
+## Contact
 
 Thank you for using PyPlayer!
 
