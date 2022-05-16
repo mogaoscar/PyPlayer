@@ -54,3 +54,8 @@ mp3 and wav are the only two codecs supported.
 
 ---
 ## Contact
+
+Thank you for using PyPlayer!
+
+Please send bug reports and feature requests at mogaoscar@gmail.com
+If you want to help develop a frontend, also contact me at mogaoscar@gmail.com
